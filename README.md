@@ -16,7 +16,7 @@ Este teclado virtual simula a funcionalidade de um piano,<br> permitindo que os 
   -Utilize as teclas 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L' para as teclas brancas, e 'W', 'E', 'T', 'Y', 'U' para as teclas pretas.<br>
 3.Divirta-se explorando as diferentes notas e acordes musicais!
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 O código-fonte está organizado em pastas para facilitar a compreensão:
 
 **index.html**: Contém a estrutura HTML da página.
