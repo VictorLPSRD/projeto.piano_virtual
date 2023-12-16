@@ -27,5 +27,4 @@ O código-fonte está organizado em pastas para facilitar a compreensão:
 Contribuição
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias neste projeto.<br> Basta criar uma issue ou enviar um pull request no repositório do GitHub.
 
-Esperamos que este projeto ajude no entendimento e na prática das tecnologias web. Divirta-se tocando música!
 
