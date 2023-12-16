@@ -19,13 +19,13 @@ Este teclado virtual simula a funcionalidade de um piano,<br> permitindo que os 
 ## Estrutura do Projeto
 O código-fonte está organizado em pastas para facilitar a compreensão:
 
-**index.html**: Contém a estrutura HTML da página.
-**main.css**: Responsável pela estilização e layout do teclado virtual.
-**reset.css**: Para padroniza as estruturas
-**main.js**: Implementação da lógica de programação em JavaScript.
+**index.html**: Contém a estrutura HTML da página.<br>
+**main.css**: Responsável pela estilização e layout do teclado virtual.<br>
+**reset.css**: Para padroniza as estruturas.<br>
+**main.js**: Implementação da lógica de programação em JavaScript.<br>
 
 Contribuição
-Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias neste projeto. Basta criar uma issue ou enviar um pull request no repositório do GitHub.
+Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias neste projeto.<br> Basta criar uma issue ou enviar um pull request no repositório do GitHub.
 
 Esperamos que este projeto ajude no entendimento e na prática das tecnologias web. Divirta-se tocando música!
 
