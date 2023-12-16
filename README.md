@@ -1,7 +1,8 @@
-#Teclado Virtual em HTML, CSS e JavaScript
+# Teclado Virtual em HTML, CSS e JavaScript
 Bem-vindo ao Teclado Virtual desenvolvido utilizando HTML, <br>CSS e JavaScript! Este projeto visa proporcionar uma experiência <br>interativa e educativa para entender o funcionamento dessas tecnologias<br> fundamentais na construção de interfaces web.
-
-#Visão Geral
+<br>
+<br>
+# Visão Geral
 Este teclado virtual simula a funcionalidade de um piano,<br> permitindo que os usuários toquem notas musicais usando o mouse ou o teclado <br>do computador. A aplicação é construída com as seguintes tecnologias:
 
 HTML (Hypertext Markup Language): A estrutura básica da página web.
